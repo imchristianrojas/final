@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\yichu\source\repos\shapes_final\shapes_final\main.cpp(16): warning C4101: 'width': unreferenced local variable
+c:\users\yichu\source\repos\shapes_final\shapes_final\main.cpp(16): warning C4101: 'length': unreferenced local variable
+c:\users\yichu\source\repos\shapes_final\shapes_final\main.cpp(79): warning C4101: 'e': unreferenced local variable
+c:\users\yichu\source\repos\shapes_final\shapes_final\main.cpp(130): warning C4101: 'e': unreferenced local variable
+  shapes_final.vcxproj -> C:\Users\yichu\source\repos\shapes_final\Debug\shapes_final.exe
